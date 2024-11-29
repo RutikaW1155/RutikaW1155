@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@rutikawagalekar" target="blank"><img src="https://img.shields.io/twitter/follow/@rutikawagalekar?logo=twitter&style=for-the-badge" alt="@rutikawagalekar" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **AI, Machine Learning, Deep Learning**
 
-- 💬 Ask me about **Java, C, Html, CSS, JavaScript**
+- 💬 Ask me about **Java, C, Html, CSS, JavaScript , AI, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **rutikaw1155@gmail.com**
 
